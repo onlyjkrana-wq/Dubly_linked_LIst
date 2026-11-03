@@ -3,3 +3,9 @@ output.txt
 Dubly_linked_list.exe
 Insart_at_Head.exe
 Insart_at_Tail.exe
+Insart_at_any_position.exe
+Delete_any_position.exe
+Delete_Tail.exe
+Delete_Head.exe
+Delete_Any_position.exe
+Doubly_Linked_list_input.exe
